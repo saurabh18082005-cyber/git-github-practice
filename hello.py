@@ -1,1 +1,1 @@
-print("hello git! i am learning github!")
+print("hello git! i am learning github! and i'm going to be a LLM engineer!")
